@@ -11,7 +11,6 @@ This project contains a simple calculator application developed in Java during m
 - **ID:** CT12DS1738
 - **Domain:** Java Programming
 - **Duration:** July to September 2024
-- **Mentor:** Neela Santhosh Kumar
 
 ## 📜 Description
 
